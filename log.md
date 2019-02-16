@@ -1,30 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 15, Friday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I worked on my web publishing homework which was creating a css style sheet. I completed the flexbox challenges and grid challenges on free code camp. I also finished the first responsive web project which was to create a tribute page.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** I have learned a lot of new things in CSS that I did not know before. It has been really helpful with my classes.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [CSS Flexbox Challenges](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
+2. [Homework][No link to work]
+3. [CSS Grid Challenges](https://learn.freecodecamp.org/responsive-web-design/css-grid)
+4. [Responsive web project tribute page](https://codepen.io/TheMadLamb/pen/qgQRNG)
+
+### Day 2: February 16, Saturday
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work**
